@@ -1,0 +1,17 @@
+D:\Documents\Homework\ParallelMSort\ParallelMergeSort\ParallelMergeSort\bin\Debug\net6.0-windows\ParallelMergeSort.exe
+D:\Documents\Homework\ParallelMSort\ParallelMergeSort\ParallelMergeSort\bin\Debug\net6.0-windows\ParallelMergeSort.deps.json
+D:\Documents\Homework\ParallelMSort\ParallelMergeSort\ParallelMergeSort\bin\Debug\net6.0-windows\ParallelMergeSort.runtimeconfig.json
+D:\Documents\Homework\ParallelMSort\ParallelMergeSort\ParallelMergeSort\bin\Debug\net6.0-windows\ParallelMergeSort.dll
+D:\Documents\Homework\ParallelMSort\ParallelMergeSort\ParallelMergeSort\bin\Debug\net6.0-windows\ParallelMergeSort.pdb
+D:\Documents\Homework\ParallelMSort\ParallelMergeSort\ParallelMergeSort\obj\Debug\net6.0-windows\ParallelMergeSort.csproj.AssemblyReference.cache
+D:\Documents\Homework\ParallelMSort\ParallelMergeSort\ParallelMergeSort\obj\Debug\net6.0-windows\ParallelMergeSort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Documents\Homework\ParallelMSort\ParallelMergeSort\ParallelMergeSort\obj\Debug\net6.0-windows\ParallelMergeSort.AssemblyInfoInputs.cache
+D:\Documents\Homework\ParallelMSort\ParallelMergeSort\ParallelMergeSort\obj\Debug\net6.0-windows\ParallelMergeSort.AssemblyInfo.cs
+D:\Documents\Homework\ParallelMSort\ParallelMergeSort\ParallelMergeSort\obj\Debug\net6.0-windows\ParallelMergeSort.csproj.CoreCompileInputs.cache
+D:\Documents\Homework\ParallelMSort\ParallelMergeSort\ParallelMergeSort\obj\Debug\net6.0-windows\ParallelMergeSort.dll
+D:\Documents\Homework\ParallelMSort\ParallelMergeSort\ParallelMergeSort\obj\Debug\net6.0-windows\refint\ParallelMergeSort.dll
+D:\Documents\Homework\ParallelMSort\ParallelMergeSort\ParallelMergeSort\obj\Debug\net6.0-windows\ParallelMergeSort.pdb
+D:\Documents\Homework\ParallelMSort\ParallelMergeSort\ParallelMergeSort\obj\Debug\net6.0-windows\ParallelMergeSort.genruntimeconfig.cache
+D:\Documents\Homework\ParallelMSort\ParallelMergeSort\ParallelMergeSort\obj\Debug\net6.0-windows\ref\ParallelMergeSort.dll
+D:\Documents\Homework\ParallelMSort\ParallelMergeSort\ParallelMergeSort\obj\Debug\net6.0-windows\ParallelMergeSort.Menu.resources
+D:\Documents\Homework\ParallelMSort\ParallelMergeSort\ParallelMergeSort\obj\Debug\net6.0-windows\ParallelMergeSort.csproj.GenerateResource.cache
